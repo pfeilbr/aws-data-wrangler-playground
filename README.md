@@ -22,3 +22,4 @@ python main.py
 
 * <https://aws-data-wrangler.readthedocs.io/>
 * [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
+* <https://aws-data-wrangler.readthedocs.io/en/stable/api.html>
