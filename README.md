@@ -24,5 +24,5 @@ See <https://github.com/awslabs/aws-data-wrangler/tree/master/tutorials> for exa
 
 * <https://aws-data-wrangler.readthedocs.io/>
 * [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
-* <https://aws-data-wrangler.readthedocs.io/en/stable/api.html>
+* [AWS Data Wrangler| API Reference](https://aws-data-wrangler.readthedocs.io/en/stable/api.html)
 * <https://github.com/awslabs/aws-data-wrangler/tree/master/tutorials> - notebooks with examples
