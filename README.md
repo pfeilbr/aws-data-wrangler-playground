@@ -20,6 +20,10 @@ python main.py
 
 See <https://github.com/awslabs/aws-data-wrangler/tree/master/tutorials> for example usages.
 
+## Lambda Layer
+
+Can be used via a [lambda layer](https://aws-data-wrangler.readthedocs.io/en/stable/install.html#aws-lambda-layer).
+
 ## Resources
 
 * <https://aws-data-wrangler.readthedocs.io/>
